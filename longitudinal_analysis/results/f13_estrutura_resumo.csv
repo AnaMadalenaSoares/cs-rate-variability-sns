@@ -1,0 +1,15 @@
+indicador,valor
+Período,2013–2025
+Hospitais incluídos,37
+Anos,13
+Observações hospital-ano,481
+Painel equilibrado,sim
+Hospitais com anos em falta,nenhum
+Unidades excluídas (sem partos),"A38, A39, A40"
+Unidade-ano com menos de 12 meses,2
+"Meses com valores em falta, nulos ou implausíveis",23
+Totais anuais = soma dos meses,sim
+Partos por hospital-ano (mín.–máx.),317–5167
+"Taxa de cesarianas (mín.–máx., %)",19.6–49.1
+DP de ln(partos) dentro dos hospitais (global),0.122
+DP de ln(partos) por hospital (mediana; mín.–máx.),0.089; 0.035–0.413
