@@ -29,7 +29,7 @@ scripts_analise_CS/                Phased analysis
 ├── dados_intermedios/             Auxiliary files in readable form (CSV and JSON)
 └── w/                             Outputs (created when the scripts are run)
 results/
-└── Resultados finais - análise CS (validado).xlsx
+└── Resultados_finais_analise_CS_validado.xlsx
                                    Validated results workbook: one sheet per phase, the harmonised
                                    unit-year database, exclusions, the decision log and the list of
                                    cells changed in the final validation
